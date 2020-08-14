@@ -9,7 +9,7 @@ public class TestDemo {
 		int age = 24;
 		gender = "male";
 		
-		System.out.println("MY name is " + name + ", I'm " + age + " years old." + "(" + gender + ")");
+		System.out.println("My name is " + name + ", I'm " + age + " years old." + "(" + gender + ")");
 	}
 }
 
